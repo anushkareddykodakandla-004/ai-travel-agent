@@ -1,0 +1,14 @@
+{
+  "name": "AI Travel Agent",
+  "description": "An AI-powered travel assistant that provides personalized trip planning, destination recommendations, itinerary generation, budget estimation, and travel guidance using IBM Granite, Langflow, RAG, and Watsonx.ai.",
+  "version": "1.0.0",
+  "author": "Anushka Reddy",
+  "technologies": [
+    "Langflow",
+    "IBM Granite",
+    "IBM Watsonx.ai",
+    "IBM Cloud",
+    "RAG",
+    "FAISS"
+  ]
+}
